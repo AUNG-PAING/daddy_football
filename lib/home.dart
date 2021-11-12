@@ -17,9 +17,9 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
 
-
-  final Completer<WebViewController> _controller =
-  Completer<WebViewController>();
+  //
+  // final Completer<WebViewController> _controller =
+  // Completer<WebViewController>();
   @override
   void initState() {
     super.initState();
